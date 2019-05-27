@@ -1,0 +1,5 @@
+sut:
+  build: .
+  volumes:
+    - ./run-tests.sh:/run-tests.sh
+  command: /run-tests.sh
