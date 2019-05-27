@@ -16,7 +16,7 @@ docker pull keinos/node-alpine
   - source: https://github.com/KEINOS/Dockerfile_of_Node-Alpine @ GitHub
 - Issues: https://github.com/KEINOS/Dockerfile_of_Node-Alpine/issues @ GitHub
 - Usage:
-  - "[Example Dockerfile for your own Node.js project](https://github.com/mhart/alpine-node#example-dockerfile-for-your-own-nodejs-project)" | alpine-node| mhart @ GitHub
+  - "[Example Dockerfile for your own Node.js project](https://github.com/mhart/alpine-node#example-dockerfile-for-your-own-nodejs-project)" | alpine-node | mhart @ GitHub
 
 ## Warnings/Caveats
 
